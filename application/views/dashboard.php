@@ -2,7 +2,7 @@
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="<?php echo base_url('assets/img/sliide1.png'); ?>" class="d-block w-100" alt="...">
+      <img src="<?php echo base_url('assets/img/banerbaristashop.png'); ?>" class="d-block w-100" alt="...">
     </div>    
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
